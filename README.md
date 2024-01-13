@@ -6,8 +6,9 @@ Full-Stack developer
 
 I am an energetic person who likes to laugh. In my spare time you'll see me cycling, watching F1, playing games, starting projects, ...
 
-* 🌍  I'm based in Belgium
+* 🌍 I'm based in Belgium
 * ✉️  You can contact me at [info@spark-development.be](mailto:info@spark-development.be)
+* 🏢 I work at [Contractify](https://www.contractify.io/)
 
 ### Skills
 
