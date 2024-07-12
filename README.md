@@ -9,7 +9,7 @@ I am an energetic person who likes to laugh. In my spare time you'll see me cycl
 * 🌍 I'm based in Belgium
 * ✉️  You can contact me at [info@spark-development.be](mailto:info@spark-development.be)
 * 🏢 I work at [Contractify](https://www.contractify.io/)
-* 🧠  I'm learning Swift [Repo for Swift tutorial](https://github.com/Moise-VK/SwiftTutorial) and Nuxt
+* 🧠  I'm learning Statamic
 ### Skills
 
 
