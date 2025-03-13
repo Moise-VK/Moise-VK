@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack developer
 --------------------
 
-I am an energetic person who likes to laugh. In my spare time you'll see me cycling, watching F1, playing games, starting projects, ...
+I am an energetic person who likes to laugh. In my spare time you'll see me cycling 🚴🏻‍♂️, watching F1 🏎️ and Basketball 🏀, starting projects, ...
 
 * 🌍 I'm based in Belgium
 * ✉️  You can contact me at [info@spark-development.be](mailto:info@spark-development.be)
